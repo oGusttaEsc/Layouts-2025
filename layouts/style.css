@@ -1,0 +1,19 @@
+body{
+    background-color: dodgerblue;
+}
+
+.center{
+    max-width: 660px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.yellow{
+    background-color: yellow;
+    padding: 100px;
+    margin: 10px;
+    box-sizing: border-box;
+}
